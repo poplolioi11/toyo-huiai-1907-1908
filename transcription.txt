@@ -15,7 +15,7 @@ CANTON, CHINA
 
 [later_mark] 1898
 2 [circled]
-P-III-106:22 [struck through]
+P-III-□ [struck through]
 
 === IIIF frame 40 ===
 https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0040.tif/full/3200,/0/default.jpg
@@ -64,7 +64,7 @@ imum of restraint.
 baths; kindness mingled with firmness with—in the necessary
 cases—the minimum of medicine.
 
-[footnote] However, in No. 3, "the necessary cases" means nearly every case, for the
+[footnote] However, in No. 3, “the necessary cases” means nearly every case, for the
 reason that the Chinese have unbounded confidence in the use of drugs, and
 the friends of patients would not be at all satisfied if no medicine were given.
 
@@ -94,7 +94,7 @@ left for his furlough. He returned near the end of 1906.)
 
 For 1907 there are a few important events to record in
 the matters of the hospital. Dr. H. W. Boyd, who had
-had charge during the Superintendent's absence in Amer-
+had charge during the Superintendent’s absence in Amer-
 ica, was reappointed by the Presbyterian Board to its South
 China Mission.
 
@@ -136,7 +136,7 @@ There were ten cases of which one, complicated by other
 serious chronic trouble, died. During these last few years
 beri-beri has become endemic in this region of China. In
 1908 there was a very serious outbreak of the acute form in
-the soldiers' barracks in Canton.
+the soldiers’ barracks in Canton.
 
 The year 1908 was full of important events touching the
 hospital. In the beginning of the year a large band of
@@ -206,7 +206,7 @@ river as every where on the land. The losses to the hospital
 amounted in repairs to over five hundred dollars, silver.
 More than one-half of this was raised by subscription
 among the Chinese physicians who had once been Dr.
-Kerr's students. The superintendent's premises suffered
+Kerr’s students. The superintendent’s premises suffered
 also to the extent of two hundred and thirty dollars.
 
 In the autumn an epidemic of dysentery occurred which
@@ -241,7 +241,7 @@ The hospital continues to be, as from the beginning, in-
 dependent of any board or society; but it is, nevertheless,
 most distinctly a Christian missionary institution. While
 its principal aim must ever be to witness as an object lesson,
-in showing the Chinese what Christ's love will do for men,
+in showing the Chinese what Christ’s love will do for men,
 we can see also that evangelistic work among the inmates
 is not without fruit. Morning prayers are held each morn-
 ing in the chapel attended by one-half the helpers and by
@@ -263,14 +263,14 @@ are mainly students from the Presbyterian Theological
 
 [R; transcribed]
 
-[caption] Matshe d built to receive quiet patients. Shows effect of typhoon
+[caption] Matshed built to receive quiet patients. Shows effect of typhoon
 
 === IIIF frame 46 ===
 https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0046.tif/full/3200,/0/default.jpg
 
 [L; transcribed]
 
-[caption] Isola tion ward, always full of patients for lack of other space
+[caption] Isolation ward, always full of patients for lack of other space
 
 [R, printed page 5; transcribed]
 
@@ -299,7 +299,7 @@ assistant Dr. Hofmann.
 The daily running expenses are met by the income from
 the patients, the room rent paid by the well-to-do helping to
 make up for those who can pay nothing for their own support.
-The foreign superintendents' salaries are special gifts.
+The foreign superintendents’ salaries are special gifts.
 Sufficient land for present use has already been procured
 through gifts. But accommodations for housing the patients
 are quite inadequate. Much of the time during these
