@@ -1,0 +1,1077 @@
+{
+  "source_title": "The John G. Kerr Refuge for Insane: Report for the Years 1907 and 1908",
+  "title_zh": "廣州惠愛醫癲院年報（1907–1908）",
+  "version": "0.1.0",
+  "language": "en",
+  "catalogue": "https://morrison.toyobunko-lab.jp/en/item/P-III-a-1898",
+  "manifest": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/manifest",
+  "source_ocr": "https://morrison.toyobunko-lab.jp/api/dts/document?resource=P-III-a-1898",
+  "shelfmark": "P-III-a-1898",
+  "source_provider": "東洋文庫 / Toyo Bunko",
+  "historical_institution": "The John G. Kerr Refuge for Insane",
+  "imprint": "China Baptist Publication Society, Canton, 1909",
+  "rights": "Historical printed text is in the public domain. The source OCR is attributed to Toyo Bunko, Morrison Pamphlets collection, under CC BY 4.0. New editorial text and encoding are available under CC BY 4.0 wherever copyright applies.",
+  "coverage_note": "The record covers the original text, tables and photograph captions in the source frame range, with blank leaves accounted for.",
+  "frames": [
+    {
+      "id": "f039",
+      "frame": 39,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p39",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0039.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0039.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "ea5b9195d3730899a4ca5197751102e8fdde031f955ef794eac62a3b4cee5e1f"
+      },
+      "parts": [
+        {
+          "id": "f039-s",
+          "side": "S",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "title",
+              "text": "The John G. Kerr\nRefuge for Insane\nCANTON, CHINA\n\nReport for the years 1907 and 1908",
+              "id": "f039-s-u01"
+            },
+            {
+              "kind": "imprint",
+              "text": "PRINTED BY THE CHINA BAPTIST PUBLICATION SOCIETY\nCANTON, CHINA\n1909",
+              "id": "f039-s-u02"
+            },
+            {
+              "kind": "later_mark",
+              "text": "1898\n2 [circled]\nP-III-106:22 [struck through]",
+              "id": "f039-s-u03"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f040",
+      "frame": 40,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p40",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0040.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0040.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "79f29b3691e57a0791a02e05023864bfa93ed786d64ff92b73e4ce1d017e0791"
+      },
+      "parts": [
+        {
+          "id": "f040-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": []
+        },
+        {
+          "id": "f040-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "The John G. Kerr Refuge for Insane\nFong Tsuen, Canton, China",
+              "id": "f040-r-u01"
+            },
+            {
+              "kind": "text",
+              "text": "Founded in 1898 by John G. Kerr, M. D., L. L. D., for forty-\nseven years medical missionary to the Chinese in Canton\nunder the American Presbyterian Board, North.\n\nPresent Staff:\n\nCHAS. C. SELDEN, Ph.D., M.D.,\nSuperintendent and Physician-in-charge.\n\nJ. ALLEN HOFMANN, Ph.B., M.D.,\nForeign Assistant Superintendent.\n\nLOK LUN TENG, M.D.,\nChinese Assistant Superintendent.",
+              "id": "f040-r-u02"
+            },
+            {
+              "kind": "heading",
+              "text": "PRINCIPLES UNDERLYING TREATMENT",
+              "id": "f040-r-u03"
+            },
+            {
+              "kind": "text",
+              "text": "1. These people are ill. If they act and speak unreas on\nably, it is not their fault.\n\n2. This is a hospital, not a prison.\n\n3. Though insane, these patients are yet men and women\n—not beasts.",
+              "id": "f040-r-u04"
+            },
+            {
+              "kind": "heading",
+              "text": "TREATMENT",
+              "id": "f040-r-u05"
+            },
+            {
+              "kind": "text",
+              "text": "1. The power of persuasion with—in the necessary cases\n—the minimum of force.\n\n2. Freedom with—in the few cases necessary—the min-\nimum of restraint.\n\n3. Out-of-door life, exercise, employment; rest, warm\nbaths; kindness mingled with firmness with—in the necessary\ncases—the minimum of medicine.",
+              "id": "f040-r-u06"
+            },
+            {
+              "kind": "footnote",
+              "text": "However, in No. 3, \"the necessary cases\" means nearly every case, for the\nreason that the Chinese have unbounded confidence in the use of drugs, and\nthe friends of patients would not be at all satisfied if no medicine were given.",
+              "id": "f040-r-u07"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f041",
+      "frame": 41,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p41",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0041.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0041.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "e5a9bfa331e4c28b33e9d34d678491fc10a59180fbc7d000664b366002cb1784"
+      },
+      "parts": [
+        {
+          "id": "f041-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": []
+        },
+        {
+          "id": "f041-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "One of the two first buildings",
+              "id": "f041-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f042",
+      "frame": 42,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p42",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0042.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0042.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "aa084dfca65ef828eca0e814b12b604dd245cea28bddd5e3a2b8388292ce3d7f"
+      },
+      "parts": [
+        {
+          "id": "f042-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "One of the two first buildings, with portion of chapel on the right",
+              "id": "f042-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f042-r",
+          "side": "R",
+          "printed_page": "1",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "REPORT\n1907 and 1908",
+              "id": "f042-r-u01"
+            },
+            {
+              "kind": "text",
+              "text": "(The last report was issued in 1904, just before the Superintendent\nleft for his furlough. He returned near the end of 1906.)\n\nFor 1907 there are a few important events to record in\nthe matters of the hospital. Dr. H. W. Boyd, who had\nhad charge during the Superintendent's absence in Amer-\nica, was reappointed by the Presbyterian Board to its South\nChina Mission.\n\nDiphtheria, rather uncommon in South China, appeared\nin the family of the native assistant physician who was\nresiding just outside the door of the hospital. Happily a\nsmall supply of antitoxin was obtainable through the kind-\nness of Dr. Swan and Dr. Davenport and thus, by the good\nhand of our Lord, the two stricken children were saved and\nan epidemic among the insane patients was averted.\n\nThe great Missionary Conference in Shanghai in May\nafforded an opportunity for speaking a few words about this\nhospital and the need of establishing similar institutions\nin other parts of China. Soon after his return from Shang-\nhai the Superintendent was taken ill and was obliged for\nsix months to give up all work. During that time Rev.\nA. Alf very kindly and very satisfactorily conducted the\nbusiness while the medical work was as ably looked after\nby the native assistant and, for a short time also, Dr. Paul\nJ. Todd.\n\nIn the latter part of the year we were able to open a fine,\nnew building accommodating sixty-four patients. It is\nbuilt mostly of brick and reinforced concrete. It was a",
+              "id": "f042-r-u02"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f043",
+      "frame": 43,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p43",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0043.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0043.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "f85d7ac085450512403f54568dc15ef810b911188bd1e183b726c0d417a74f09"
+      },
+      "parts": [
+        {
+          "id": "f043-l",
+          "side": "L",
+          "printed_page": "2",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "great relief to be able to occupy this building as the others\nwere overcrowded. It was built with gifts from foreign\nfriends with the exception of a few hundred dollars given\nby Chinese.\n\nAn epidemic of beri-beri also occurred in the hospital.\nThere were ten cases of which one, complicated by other\nserious chronic trouble, died. During these last few years\nberi-beri has become endemic in this region of China. In\n1908 there was a very serious outbreak of the acute form in\nthe soldiers' barracks in Canton.\n\nThe year 1908 was full of important events touching the\nhospital. In the beginning of the year a large band of\narmed robbers broke a hole through the wall of the\ngrounds, crossed and making another hole on the opposite\nside, entered a Chinese shop. Having procured several\nhundred dollars worth of booty they returned by the same\nroute but forgot to fill up the holes they had made in the\nwalls.\n\nThat was coming rather near home. But in February\nanother small band of five armed robbers broke a hole\nthrough one of the walls and entered the house just out-\nside the door of the hospital occupied by the native assist-\nant physician and family and two Bible women. They\ntook away nearly every thing of any value after tying the\nphysician and his wife to the banisters.\n\nIn April we were rejoiced and relieved by the arrival of\na foreign assistant in the person of J. Allen Hofmann,\nPh.B., M.D., from America. We had been praying that\nthe Master would send the man whom He Himself had\nchosen. Our association with Dr. Hofmann has been most\npleasant and he has proven himself to be a true yoke-\nfellow. He was accompanied by his foster-mother, Mrs.\nOlive A. Allen, who had for many years looked forward to\ncoming to China as a missionary.",
+              "id": "f043-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f043-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "This fine building is made mostly of brick and reinforced\nconcrete. Only the roof timbers are wood",
+              "id": "f043-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f044",
+      "frame": 44,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p44",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0044.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0044.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "1939b684502d48af09e04d53ce65cde3dde647d89bdb8a75bb4fcb0208eb35bd"
+      },
+      "parts": [
+        {
+          "id": "f044-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "An old building which for lack of room, has had to be\nrequisitioned and filled with patients",
+              "id": "f044-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f044-r",
+          "side": "R",
+          "printed_page": "3",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "In June Canton was visited by an epidemic of Asiatic\ncholera. It reached the hospital just at the beginning of\nthe great flood which did such immense damage in this\nprovince. Three smaller buildings were so flooded as re-\ngards the ground floors that they could not be used, and\nthe patients had to be removed to other wards. This\nnecessitated crowding together without adequate means of\nisolating those who were ill. The grounds were flooded\nnearly every where with the infected water. Many patients\ndied. One woman attendant who had but five days before\nbegun work, died also. Many others of the inmates con-\ntracted the disease but recovered. In order to lessen the\nnumber of patients, all who had sufficiently recovered\nmentally were hurried away, and some others not yet re-\ncovered were removed voluntarily by their families to get\nthem out of danger. So that the number of inmates\ndecreased in a short time by thirty. The flood lasted one\nweek only but it was followed after some days by a second\nas high as the first, lasting, however, but one night.\n\nIn July occurred a typhoon, the greatest in the history\nof Canton in forty years. Much damage was done on the\nriver as every where on the land. The losses to the hospital\namounted in repairs to over five hundred dollars, silver.\nMore than one-half of this was raised by subscription\namong the Chinese physicians who had once been Dr.\nKerr's students. The superintendent's premises suffered\nalso to the extent of two hundred and thirty dollars.\n\nIn the autumn an epidemic of dysentery occurred which\nagain carried off a number of patients. We had also an\nunusual number of cases of malarial fever. It was every-\nwhere very prevalent.\n\nDuring these two years the number of patients, notwith-\nstanding the sudden decrease at the time of the cholera\nepidemic as noted above, has increased from 102 to 174. Of\nthe present number, 96 were committed to the hospital and",
+              "id": "f044-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f045",
+      "frame": 45,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p45",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0045.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0045.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "f1a8e3d0601252c0fea8216ca0bec9260cbad102621dbd6b013d8d24fc2285b9"
+      },
+      "parts": [
+        {
+          "id": "f045-l",
+          "side": "L",
+          "printed_page": "4",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "are supported by the officials. Of these 96, about one-half\nwere brought up from Hongkong and one-half picked up on\nthe streets of Canton by the police. Hongkong being a\nBritish colony, those Chinese who have come from the\nmainland and have become insane while in the colony are\nsent to Canton and delivered over to a Chinese official.\nThat official then sends them to this hospital for treatment\ninstead of, as formerly, putting the serious cases in prison\nand setting the harmless ones free in the street. Nearly\nall, of whatever source, are brought to us in chains. These\nare promptly removed on entering, as all chains were two\nyears ago relegated to the archeological museum.\n\nThe hospital continues to be, as from the beginning, in-\ndependent of any board or society; but it is, nevertheless,\nmost distinctly a Christian missionary institution. While\nits principal aim must ever be to witness as an object lesson,\nin showing the Chinese what Christ's love will do for men,\nwe can see also that evangelistic work among the inmates\nis not without fruit. Morning prayers are held each morn-\ning in the chapel attended by one-half the helpers and by\nmany of the patients who are able to come. A few verses\nare read from the Gospels or from the Acts and explained.\nThen there is singing accompanied by the organ, and\nprayer, the whole occupying thirty minutes. We have a\nprayer-meeting for the women employees attended also by\nsome of the women patients Tuesday afternoons of each\nweek, a class for Bible study for the attendants Wednesday\nevening, a singing service Thursday evening; Sabbath\nmorning a Sabbath School for primary children gathered\nfrom the neighborhood, a large number being boat children;\na Bible class for attendants and patients and later a\npreaching service. The chapel doors are during this service\nthrown open to the street for any passers-by who may desire\nto come in and join us. The preachers for this service\nare mainly students from the Presbyterian Theological",
+              "id": "f045-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f045-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Matshe d built to receive quiet patients. Shows effect of typhoon",
+              "id": "f045-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f046",
+      "frame": 46,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p46",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0046.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0046.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "a55ef0e50821e5d429927673a972100273759b153de6ebab20542ef03887e608"
+      },
+      "parts": [
+        {
+          "id": "f046-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Isola tion ward, always full of patients for lack of other space",
+              "id": "f046-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f046-r",
+          "side": "R",
+          "printed_page": "5",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "Seminary. There have been encouragements in this line.\nTwo of our former patients who recovered and became\nChristians are valued assistants in other missions, one is\nthe wife of a native pastor and several others have received\nbaptism.\n\nA dispensary for out-patients is open each week Monday\nand Friday mornings, and the gospel message is given to\nthe men patients by our native evangelist, while the women\nhear it through the resident Bible woman and the lady\nmissionary. Two of the women who have been listeners\nmore or less frequently for the past year have received\nbaptism.\n\nWith the exception of one Chinese Christian gentleman,\nthe Board of Trustees is made up of members of the\nPresbyterian Mission. We appreciate highly the friendship\nof the Presbyterian Board in New York, and wish to thank\nthat body for selecting and forwarding goods on various\noccasions and especially for finding for us our valued\nassistant Dr. Hofmann.\n\nThe daily running expenses are met by the income from\nthe patients, the room rent paid by the well-to-do helping to\nmake up for those who can pay nothing for their own support.\nThe foreign superintendents' salaries are special gifts.\nSufficient land for present use has already been procured\nthrough gifts. But accommodations for housing the patients\nare quite inadequate. Much of the time during these\ntwo years a dozen to eighteen have been obliged to live in\na mat shed. One-half the male employees were also obliged\nto live in a mat shed. Much of the land is low and must\nbe filled in; because in its present state it is a menace to\nhealth and life. We need a wall about the newly acquired\nproperty. We also very much need a new kitchen and\nbath rooms as well as a house for the male attendants.",
+              "id": "f046-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f047",
+      "frame": 47,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p47",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0047.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0047.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "54c223b1e7ae44d760ad99c2b2e3c122f6f2ff416c315bb4c5a04d141e3380fa"
+      },
+      "parts": [
+        {
+          "id": "f047-l",
+          "side": "L",
+          "printed_page": "6",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "text",
+              "text": "To supply these all we must trust our Master in heaven\nwho will incline the hearts of those who have love for their\nfellowmen to give what is needed.\n\nFollowing is an estimate of what these needed improve-\nments will cost:",
+              "id": "f047-l-u01"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "One new building for sixty ward patients",
+                  "$6000.00 Mex."
+                ],
+                [
+                  "One new building for private room patients",
+                  "6000.00 “"
+                ],
+                [
+                  "New kitchen and bath rooms, drying rooms etc.",
+                  "600.00 “"
+                ],
+                [
+                  "Filling in of low land",
+                  "5000.00 “"
+                ],
+                [
+                  "House for male attendants",
+                  "1000.00 “"
+                ],
+                [
+                  "Wall to surround newly acquired property",
+                  "1500.00 “"
+                ],
+                [
+                  "Laying pipe from the river for water supply",
+                  "700.00 “"
+                ]
+              ],
+              "header_row": false,
+              "id": "f047-l-u02"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f047-r",
+          "side": "R",
+          "printed_page": "7",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "SOME FIGURES.\n1907.",
+              "id": "f047-r-u01"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Number of patients entered during year,",
+                  "men 144",
+                  "women 71",
+                  "215",
+                  ""
+                ],
+                [
+                  "“ “ “ discharged “ “",
+                  "men 118",
+                  "women 44",
+                  "162",
+                  ""
+                ],
+                [
+                  "Of these there were cured,",
+                  "men 47",
+                  "Women 21",
+                  "68",
+                  "or 31½* % of those admitted, 42 % of those discharged."
+                ],
+                [
+                  "Improved,",
+                  "men 33",
+                  "Women 10",
+                  "43",
+                  "or 20 % of those admitted, 26½ % of those discharged."
+                ],
+                [
+                  "Unimproved,",
+                  "men 23",
+                  "Women 8",
+                  "31",
+                  "or 14½ % of those admitted, 19 % of those discharged."
+                ],
+                [
+                  "Died,",
+                  "men 15",
+                  "Women 5",
+                  "20",
+                  "or 9 % of those admitted, 12 % of those discharged."
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "162",
+                  ""
+                ]
+              ],
+              "header_row": false,
+              "id": "f047-r-u02"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Number of patients in hospital Jan. 1st, 1907",
+                  "102"
+                ],
+                [
+                  "“ “ “ “ “ Dec. 31st, 1907",
+                  "155"
+                ],
+                [
+                  "Increase during year",
+                  "53"
+                ]
+              ],
+              "header_row": false,
+              "id": "f047-r-u03"
+            },
+            {
+              "kind": "footnote",
+              "text": "* This somewhat high percentage of cures is probably due to a\nlarger proportion of manic-depressive cases and to the fewer of\nparesis than is found at home. But this condition is in part off set\nby the few cases of true alcoholic psychoses.",
+              "id": "f047-r-u04"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f048",
+      "frame": 48,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p48",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0048.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0048.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "7e1b3a56a0c2d6f2e5d06a0244989d333c6f90264f77599d30a74ccc1218eeef"
+      },
+      "parts": [
+        {
+          "id": "f048-l",
+          "side": "L",
+          "printed_page": "8",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "1908.",
+              "id": "f048-l-u01"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Number of patients entered during year,",
+                  "men, 169",
+                  "Women, 80",
+                  "249",
+                  ""
+                ],
+                [
+                  "“ “ “ discharged “ “",
+                  "men, 159",
+                  "Women, 71",
+                  "230",
+                  ""
+                ],
+                [
+                  "Of these there were cured,",
+                  "men 48",
+                  "Women 32",
+                  "80",
+                  "or 32* % of those admitted, 35 % of those discharged."
+                ],
+                [
+                  "Improved,",
+                  "men 42",
+                  "Women 14",
+                  "56",
+                  "or 22½ % of those admitted, 24 % of those discharged."
+                ],
+                [
+                  "Unimproved,",
+                  "men 32",
+                  "Women 14",
+                  "46",
+                  "or 18½ % of those admitted, 20 % of those discharged."
+                ],
+                [
+                  "Died,",
+                  "men 34",
+                  "Women 11",
+                  "45",
+                  "or 18‡ % of those admitted, 19½ % of those discharged."
+                ],
+                [
+                  "Not insane,",
+                  "men 3",
+                  "",
+                  "3",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "230",
+                  ""
+                ]
+              ],
+              "header_row": false,
+              "id": "f048-l-u02"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Number of patients in hospital, Jan. 1st, 1908",
+                  "155"
+                ],
+                [
+                  "“ “ “ “ “ Dec. 31st, 1908",
+                  "174"
+                ],
+                [
+                  "Increase during year",
+                  "19"
+                ]
+              ],
+              "header_row": false,
+              "id": "f048-l-u03"
+            },
+            {
+              "kind": "footnote",
+              "text": "* See footnote on preceding page",
+              "id": "f048-l-u04"
+            },
+            {
+              "kind": "footnote",
+              "text": "‡ An unusually high death rate due to the two epidemics of\ncholera and dysentery as noted above.",
+              "id": "f048-l-u05"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f048-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Patients drawing water at the well",
+              "id": "f048-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f049",
+      "frame": 49,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p49",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0049.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0049.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "5e90e06becd4ced7b96e80f46357456ecc4f66353136565db7911ced1bb600b3"
+      },
+      "parts": [
+        {
+          "id": "f049-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Men patients breaking stone for prospective new building",
+              "id": "f049-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f049-r",
+          "side": "R",
+          "printed_page": "9",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "ITEMIZED STATEMENTS OF CURRENT\nEXPENDITURES.\n1907.",
+              "id": "f049-r-u01"
+            },
+            {
+              "kind": "table",
+              "title": "Kitchen Expenses.",
+              "rows": [
+                [
+                  "Rice",
+                  "Meat and Vegetables",
+                  "Wood",
+                  "Wages",
+                  "Sundries",
+                  "Total"
+                ],
+                [
+                  "2499.23",
+                  "2027.53",
+                  "562.76",
+                  "134.50",
+                  "271.16",
+                  "5495.18"
+                ]
+              ],
+              "header_row": true,
+              "id": "f049-r-u02"
+            },
+            {
+              "kind": "table",
+              "title": "General Expenses.",
+              "rows": [
+                [
+                  "Wages",
+                  "Wardrobe",
+                  "Dispensary",
+                  "Improvements",
+                  "Repairs",
+                  "Miscellaneous",
+                  "Total"
+                ],
+                [
+                  "1534.71",
+                  "540.78",
+                  "289.91",
+                  "632.47",
+                  "102.19",
+                  "619.48",
+                  "3719.54"
+                ]
+              ],
+              "header_row": true,
+              "id": "f049-r-u03"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Grand total 1907",
+                  "9214.72"
+                ]
+              ],
+              "header_row": false,
+              "id": "f049-r-u04"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f050",
+      "frame": 50,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p50",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0050.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0050.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "636e5e3e5085ec8cfe4b1efd3a5005818ab73dcc5af0802876bbfdc6177a1ab8"
+      },
+      "parts": [
+        {
+          "id": "f050-l",
+          "side": "L",
+          "printed_page": "10",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "1908.",
+              "id": "f050-l-u01"
+            },
+            {
+              "kind": "table",
+              "title": "Kitchen Expenses.",
+              "rows": [
+                [
+                  "Rice",
+                  "Meat and Vegetables",
+                  "Wood",
+                  "Wages",
+                  "Sundries",
+                  "Total"
+                ],
+                [
+                  "3181.27",
+                  "3107.99",
+                  "774.51",
+                  "164.05",
+                  "175.20",
+                  "7403.02"
+                ]
+              ],
+              "header_row": true,
+              "id": "f050-l-u02"
+            },
+            {
+              "kind": "table",
+              "title": "General Expenses.",
+              "rows": [
+                [
+                  "Wages",
+                  "Wardrobe",
+                  "Dispensary",
+                  "Improvements",
+                  "Repairs",
+                  "Miscellaneous",
+                  "Total"
+                ],
+                [
+                  "1922.20",
+                  "509.08",
+                  "580.91",
+                  "712.73",
+                  "795.91",
+                  "706.27",
+                  "5227.10"
+                ]
+              ],
+              "header_row": true,
+              "id": "f050-l-u03"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Grand total 1908",
+                  "12630.12"
+                ]
+              ],
+              "header_row": false,
+              "id": "f050-l-u04"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f050-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Women patients sewing.",
+              "id": "f050-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f051",
+      "frame": 51,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p51",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0051.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0051.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "66bf94cfc59efbf4226412d8a873c1336d6bd8513090e0deb31254e445c65e74"
+      },
+      "parts": [
+        {
+          "id": "f051-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "PARESIS.",
+              "id": "f051-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f051-r",
+          "side": "R",
+          "printed_page": "11",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "table",
+              "title": "CURRENT ACCOUNT 1907.",
+              "rows": [
+                [
+                  "Balance on hand Jan. 1st, 1907",
+                  "$121.05",
+                  "Expenditures as per statement above",
+                  "$9214.72"
+                ],
+                [
+                  "Received from patients",
+                  "8863.62",
+                  "Balance on hand December 31st, 1907",
+                  "81.12"
+                ],
+                [
+                  "Presbyt. Board toward dispensary",
+                  "111.17",
+                  "",
+                  ""
+                ],
+                [
+                  "Fees and small gifts",
+                  "200.00",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "$9295.84",
+                  "",
+                  "$9295.84"
+                ]
+              ],
+              "header_row": false,
+              "id": "f051-r-u01"
+            },
+            {
+              "kind": "table",
+              "title": "1908.",
+              "rows": [
+                [
+                  "Balance on hand Jan. 1st, 1908",
+                  "$81.12",
+                  "Expenditures as per statement above",
+                  "12630.12"
+                ],
+                [
+                  "Received from patients",
+                  "12311.52",
+                  "Balance on hand December 31st, 1908",
+                  "35.52"
+                ],
+                [
+                  "Prebyt. Board toward dispensary",
+                  "111.00",
+                  "",
+                  ""
+                ],
+                [
+                  "Fees and small gifts",
+                  "162.00",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "12665.64",
+                  "",
+                  "12665.64"
+                ]
+              ],
+              "header_row": false,
+              "id": "f051-r-u02"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f052",
+      "frame": 52,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p52",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0052.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0052.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "c2a0a0a3470983ff3dafe44894d99ae04bd741876683b09f60b8f89faf4361a9"
+      },
+      "parts": [
+        {
+          "id": "f052-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": []
+        },
+        {
+          "id": "f052-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Catatonic stupor",
+              "id": "f052-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f053",
+      "frame": 53,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p53",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0053.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0053.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "95a66fbfa447a68aba2353a39ed1f829794a8b09e54afabd73824dfc39e45c35"
+      },
+      "parts": [
+        {
+          "id": "f053-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": []
+        }
+      ]
+    }
+  ]
+}

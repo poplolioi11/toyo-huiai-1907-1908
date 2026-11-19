@@ -1,0 +1,31 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the dataset version and the original report.",
+  "type": "dataset",
+  "title": "廣州惠愛醫癲院年報（1907–1908） / The John G. Kerr Refuge for Insane: Report for the Years 1907 and 1908 — Transcription Dataset",
+  "version": "0.1.0",
+  "date-released": "2026-11-19",
+  "authors": [
+    {
+      "given-names": "Chen-Yu",
+      "family-names": "Chu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "repository-code": "https://github.com/poplolioi11/toyo-huiai-1907-1908",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "廣州惠愛醫癲院",
+    "精神醫學史",
+    "廣州",
+    "John G. Kerr",
+    "history of psychiatry",
+    "Canton (Guangzhou)",
+    "psychiatric hospital reports",
+    "medical missions in China",
+    "historical transcription",
+    "香港送院",
+    "admissions and discharges",
+    "Hong Kong referrals"
+  ]
+}
