@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original report.",
   "type": "dataset",
-  "title": "廣州惠愛醫癲院年報（1907–1908） / The John G. Kerr Refuge for Insane: Report for the Years 1907 and 1908 — Transcription Dataset",
+  "title": "廣州惠愛醫癲院年報(1907–1908) / The John G. Kerr Refuge for Insane: Report for the Years 1907 and 1908 — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-19",
   "authors": [
@@ -27,5 +27,6 @@
     "香港送院",
     "admissions and discharges",
     "Hong Kong referrals"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24368849"
 }
